@@ -5,15 +5,14 @@
   />
 </div>
 
-<h1 align="center">Olá, eu sou o Tomaziu</h1>
+<h1 align="center">Olá, eu sou o Thomaz</h1>
 
 <p align="center">
-  Estudando desenvolvimento web e evoluindo um passo de cada vez.
+  Estudando e sempre evoluindo!.
 </p>
 
 ## Sobre Mim
 
-- Estou evoluindo em desenvolvimento web com JavaScript, Node.js, HTML e CSS.
 - Gosto de aprender criando, testando e melhorando aos poucos.
 - Tenho interesse por interfaces, automação e deploy de aplicações web.
 - Meu foco atual é fortalecer a base em programação e boas práticas.
