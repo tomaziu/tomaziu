@@ -8,7 +8,7 @@
 <h1 align="center">Olá, eu sou o Thomaz</h1>
 
 <p align="center">
-  Estudando e sempre evoluindo!.
+  Estudando e sempre evoluindo!
 </p>
 
 ## Sobre Mim
