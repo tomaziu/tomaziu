@@ -36,23 +36,6 @@
   <img src="https://img.shields.io/badge/Render-46e3b7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
 </p>
 
-## Aprendendo Agora
-
-| Área | Foco |
-| --- | --- |
-| JavaScript | Lógica, DOM e recursos modernos |
-| Node.js | Servidores, rotas e APIs simples |
-| HTML + CSS | Layout responsivo e interfaces limpas |
-| Git + GitHub | Versionamento e publicação |
-
-```mermaid
-pie title Foco atual de estudos
-  "JavaScript" : 35
-  "Node.js" : 25
-  "HTML e CSS" : 25
-  "Git e GitHub" : 15
-```
-
 ## Onde Me Encontrar
 
 <p>
