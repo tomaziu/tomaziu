@@ -5,12 +5,6 @@
   />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tomaziu&style=flat-square&color=0f8f86" alt="Visualizações do perfil" />
-  <img src="https://img.shields.io/github/followers/tomaziu?style=flat-square&color=2364aa&label=Seguidores" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/tomaziu?style=flat-square&color=c27a12&label=Estrelas" alt="Estrelas no GitHub" />
-</p>
-
 <h1 align="center">Olá, eu sou o Tomaziu</h1>
 
 <p align="center">
