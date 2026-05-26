@@ -36,20 +36,12 @@
   <img src="https://img.shields.io/badge/Render-46e3b7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
 </p>
 
-## Estatísticas
+## Aprendendo Agora
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=tomaziu&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaziu&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais usadas"
-  />
-</p>
+- JavaScript moderno
+- Node.js na prática
+- HTML e CSS com interfaces responsivas
+- Git, GitHub e publicação de aplicações web
 
 ## Onde Me Encontrar
 
