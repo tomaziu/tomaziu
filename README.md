@@ -38,10 +38,20 @@
 
 ## Aprendendo Agora
 
-- JavaScript moderno
-- Node.js na prática
-- HTML e CSS com interfaces responsivas
-- Git, GitHub e publicação de aplicações web
+| Área | Foco |
+| --- | --- |
+| JavaScript | Lógica, DOM e recursos modernos |
+| Node.js | Servidores, rotas e APIs simples |
+| HTML + CSS | Layout responsivo e interfaces limpas |
+| Git + GitHub | Versionamento e publicação |
+
+```mermaid
+pie title Foco atual de estudos
+  "JavaScript" : 35
+  "Node.js" : 25
+  "HTML e CSS" : 25
+  "Git e GitHub" : 15
+```
 
 ## Onde Me Encontrar
 
