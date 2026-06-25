@@ -1,33 +1,29 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Thomaz
+# Olá, eu sou o Thomaz 👋
 
-### *Estudando e sempre evoluindo.*
+**Desenvolvedor Web | Estudante de Sistemas de Informação**
 
-[![GitHub](https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaziu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-tomaziu-F1403A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Desenvolvedor+Web;Aprendendo+todo+dia;Automatizando+o+mundo)
+[![GitHub](https://img.shields.io/badge/GitHub-tomaziu-181717?style=flat&logo=github)](https://github.com/tomaziu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomaz-0A66C2?style=flat&logo=linkedin)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-tomaziu-F1403A?style=flat&logo=gmail)](mailto:#)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+### Sobre mim
 
 ```
 🎓  Estudante de Sistemas de Informação na UNIGRANDE
 💡  Curioso por tecnologia e resolver problemas com código
-🚀  Focado em interfaces, automação e deploy de aplicações web
-📈  Sempre buscando evoluir e aprender algo novo
+🚀  Focado em interfaces, automação e deploy
+📈  Sempre buscando evoluir
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -43,28 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomaziu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomaziu&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaziu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tomaziu&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E)
-
----
-
-<div align="center">
-
-### 💜 Obrigado por visitar meu perfil!
-
-![Visitors](https://komarev.com/ghpvc/?username=tomaziu&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaziu&layout=compact&theme=radical&hide_border=true)
 
 </div>
