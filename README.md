@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Thomaz
 
-### Desenvolvedor Web | Estudante de Sistemas de Informação
+### Estudante de Sistemas de Informação
 
 <a href="https://github.com/tomaziu">
   <img src="https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
