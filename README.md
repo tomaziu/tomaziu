@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/tomaziu/tomaziu/main/wave-divider.svg" width="100%"/>
+---
 
 ## 🚀 Sobre mim
 
@@ -27,7 +27,7 @@
 📈  Sempre buscando evoluir
 ```
 
-<img src="https://raw.githubusercontent.com/tomaziu/tomaziu/main/wave-divider.svg" width="100%"/>
+---
 
 ## 💻 Tech Stack
 
