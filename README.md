@@ -18,25 +18,6 @@
 
 ---
 
-## 📈 Minhas Contribuições
-
-<div align="center">
-
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tomaziu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&area_opacity=0.3)
-
-</div>
-
----
-
-## 🐍 Snake Game
-
-<div align="center">
-
-![Snake Game](https://raw.githubusercontent.com/tomaziu/tomaziu/main/snake-game.svg)
-
-</div>
-
-
 ## 🚀 Sobre mim
 
 ```
