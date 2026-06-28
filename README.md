@@ -1,18 +1,24 @@
 <div align="center">
 
-# Olá, eu sou o Thomaz 👋
+# 👋 Olá, eu sou o Thomaz
 
-**Desenvolvedor Web | Estudante de Sistemas de Informação**
+### Desenvolvedor Web | Estudante de Sistemas de Informação
 
-[![GitHub](https://img.shields.io/badge/GitHub-tomaziu-181717?style=flat&logo=github)](https://github.com/tomaziu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomaz-0A66C2?style=flat&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-tomaziu-F1403A?style=flat&logo=gmail)](mailto:#)
+<a href="https://github.com/tomaziu">
+  <img src="https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/thomaz">
+  <img src="https://img.shields.io/badge/LinkedIn-thomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:tomaziu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tomaziu-F1403A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 </div>
 
 ---
 
-### Sobre mim
+## 🚀 Sobre mim
 
 ```
 🎓  Estudante de Sistemas de Informação na UNIGRANDE
@@ -23,7 +29,7 @@
 
 ---
 
-### Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -39,10 +45,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomaziu&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaziu&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomaziu&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=tomaziu&color=blueviolet&style=for-the-badge)
 
 </div>
