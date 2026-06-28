@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Thomaz
-
-### Desenvolvedor Web | Estudante de Sistemas de Informação
+<img src="https://raw.githubusercontent.com/tomaziu/tomaziu/main/gradient-header.svg" width="100%"/>
 
 <a href="https://github.com/tomaziu">
   <img src="https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -42,5 +40,3 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
-
-

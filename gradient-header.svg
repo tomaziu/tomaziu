@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <style>
+      @keyframes gradientShift {
+        0%   { stop-color: #58a6ff; }
+        25%  { stop-color: #39d353; }
+        50%  { stop-color: #f78166; }
+        75%  { stop-color: #bc8cff; }
+        100% { stop-color: #58a6ff; }
+      }
+      .anim-stop-1 { animation: gradientShift 6s ease-in-out infinite; }
+      .anim-stop-2 { animation: gradientShift 6s ease-in-out infinite; animation-delay: -3s; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#0d1117"/>
+  <rect width="800" height="200" rx="12">
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#58a6ff;#39d353;#f78166;#bc8cff;#58a6ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#bc8cff;#58a6ff;#39d353;#f78166;#bc8cff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <animate attributeName="fill" values="url(#grad)" dur="0.1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="90" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="#0d1117">👋 Olá, eu sou o Thomaz</text>
+  <text x="400" y="130" text-anchor="middle" font-family="monospace" font-size="18" fill="#0d1117">Desenvolvedor Web | Estudante de Sistemas de Informação</text>
+</svg>
