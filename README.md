@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tomaziu/tomaziu/main/gradient-header.svg" width="100%"/>
+<a href="https://github.com/tomaziu">
+<img src="https://img.shields.io/badge/Ol%C3%A1%2C%20eu%20sou%20o%20Thomaz-blue?style=for-the-badge&logo=github&logoColor=white" alt="Thomaz">
+</a>
+
+### Desenvolvedor Web | Estudante de Sistemas de Informação
 
 <a href="https://github.com/tomaziu">
   <img src="https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
