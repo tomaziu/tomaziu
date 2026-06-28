@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/tomaziu">
-<img src="https://img.shields.io/badge/Ol%C3%A1%2C%20eu%20sou%20o%20Thomaz-blue?style=for-the-badge&logo=github&logoColor=white" alt="Thomaz">
-</a>
-
-### Desenvolvedor Web | Estudante de Sistemas de Informação
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Thomaz%3BDesenvolvedor+Web+%7C+Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <a href="https://github.com/tomaziu">
   <img src="https://img.shields.io/badge/GitHub-tomaziu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
